@@ -1,0 +1,1 @@
+create table student (rollno INT primary key,name VARCHAR(20),marks INT);
